@@ -9,6 +9,12 @@ This software is a middle outcome of my project to reimplement "Globally Optimal
 
 This software calculates a similarity of two user-input strokes.
 
+**Example: start vs star**
+![Imgur](http://i.imgur.com/H2kK6s9.png)
+
+**Example: star vs circle**
+![Imgur](http://i.imgur.com/R7ejfBl.png)
+
 
 How to use
 --------------------
